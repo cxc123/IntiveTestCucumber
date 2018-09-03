@@ -11,3 +11,8 @@ Install Java,Maven and Github
 ## Running the tests
 1) command to run all test :- mvn clean test
 2) Run below command to run test with a tag :- mvn test -Dcucumber.options="--tags {@homePage}"
+
+
+## Reports
+
+refer /target/cucumber-reports/index.html for report
